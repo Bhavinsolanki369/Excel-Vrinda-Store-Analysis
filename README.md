@@ -11,8 +11,7 @@ Insights:
 
 Conclusions:
 1. Our pick sales came during Months of February-April, August-September and November-December. Women had been top consumers throughout the year.
-2. In order to increase sales in Year 2023, strategies may be made around categories relatable to females Such as, blouse, Kurtas, sarees in 
-3. Top performing states, and other states during festive seasons.
+2. In order to increase sales in Year 2023, strategies may be made around categories relatable to females Such as, blouse, Kurtas, sarees in Top performing states, and other states during festive seasons.
 
 tools and functions used,
 MS Excel: IF, SUM, AVERAGE, TEXT, Pivot Tables, Pivot Charts, Slicer(for interactivity),ect.
