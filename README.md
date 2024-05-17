@@ -1,7 +1,7 @@
 # Vrinda-Store-Analysis
 Hello visitor,\
 Greetings. I hope you are doing fantastic work.\
-This repository for Project done using MS excel and its various functions for Data Analysis, Building Interactive Dashboard and Reporting.
+This repository is for Project done using MS excel and its various functions for Data Analysis, Building Interactive Dashboard and Reporting.
 
 Insights:
 1. We had Top sales of  INR 1.93 Millions in the month of March.
