@@ -1,17 +1,17 @@
 # Vrinda-Store-Analysis
-Hello visitor,\
-Greetings. I hope you are doing fantastic work.\
-This repository is for Project done using MS excel and its various functions for Data Analysis, Building Interactive Dashboard and Reporting.
-
 Insights:
-1. We had Top sales of  INR 1.93 Millions in the month of March.
-2. Approximately 64%  of orders comes from Women.
-3. Amazon, Flipkart and Myntra are account for majority orders.(~82%)
-4. Our Overall Performance is commandeble in Maharashtra, Uttar Pradesh and Karnataka.
 
+Achieved top sales of INR 1.93 million in March.
+Approximately 64% of orders originate from female customers.
+Amazon, Flipkart, and Myntra collectively represent 82% of total orders.
+Maharashtra, Uttar Pradesh, and Karnataka demonstrate strong overall performance.
 Conclusions:
-1. Our pick sales came during Months of February-April, August-September and November-December. Women had been top consumers throughout the year.
-2. In order to increase sales in Year 2023, strategies may be made around categories relatable to females Such as, blouse, Kurtas, sarees in Top performing states, and other states during festive seasons.
 
-tools and functions used,
-MS Excel: IF, SUM, AVERAGE, TEXT, Pivot Tables, Pivot Charts, Slicer(for interactivity),ect.
+Peak sales months identified as February-April, August-September, and November-December.
+Women consistently constitute the primary consumer base year-round.
+Strategic focus for 2023 includes promoting female-centric categories (e.g., blouses, Kurtas, sarees) in top-performing states and expanding offerings during festive seasons.
+Tools and Functions Utilized in MS Excel:
+
+Functions: IF, SUM, AVERAGE, TEXT
+Tools: Pivot Tables, Pivot Charts, Slicer (for interactivity)
+Your method of leveraging Excel's capabilities for data manipulation, visualization, and insightful analysis appears comprehensive. If you have specific questions or require further guidance on Excel or data analysis strategies, feel free to reach out!
